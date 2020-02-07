@@ -34,7 +34,6 @@ export default function JoinScreen({navigation}: any) {
           }}
         />
       </View>
-      <KeyboardAvoidingView behavior="padding" />
     </View>
   );
 }
